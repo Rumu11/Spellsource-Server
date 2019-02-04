@@ -13,6 +13,7 @@
     "filter": {
       "class": "SpecificCardFilter",
       "card": "minion_ysera",
+      "card": "hero_ysera_the_dreamer",
       "invert": true
     }
   },
