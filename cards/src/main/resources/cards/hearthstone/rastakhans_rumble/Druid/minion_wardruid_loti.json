@@ -53,6 +53,9 @@
       "card": "token_loti_devilsaur"
     }
   },
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "RASTAKHANS_RUMBLE",
   "fileFormatVersion": 1
