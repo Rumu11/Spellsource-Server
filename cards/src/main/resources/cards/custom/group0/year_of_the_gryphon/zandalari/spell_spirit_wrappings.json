@@ -11,6 +11,9 @@
     "spell_spirit_wrappings_2"
   ],
   "chooseBothCardId": "spell_spirit_wrappings_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CUSTOM",
   "fileFormatVersion": 1
