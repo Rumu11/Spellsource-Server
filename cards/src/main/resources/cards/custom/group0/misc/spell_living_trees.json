@@ -11,6 +11,9 @@
     "spell_living_trees_2"
   ],
   "chooseBothCardId": "spell_living_trees_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CUSTOM",
   "fileFormatVersion": 1
