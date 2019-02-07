@@ -30,7 +30,9 @@
       "card": "token_druid_of_the_scythe3"
     }
   },
-  "attributes": {},
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "WITCHWOOD",
   "fileFormatVersion": 1
