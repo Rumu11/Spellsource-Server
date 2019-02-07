@@ -11,6 +11,9 @@
     "hero_power_plague_lord2"
   ],
   "chooseBothCardId": "hero_power_plague_lord3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": false,
   "set": "KNIGHTS_OF_THE_FROZEN_THRONE",
   "fileFormatVersion": 1
