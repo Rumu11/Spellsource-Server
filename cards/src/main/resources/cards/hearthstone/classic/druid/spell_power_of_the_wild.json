@@ -11,6 +11,9 @@
     "spell_power_of_the_wild_2"
   ],
   "chooseBothCardId": "spell_power_of_the_wild_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CLASSIC",
   "fileFormatVersion": 1
