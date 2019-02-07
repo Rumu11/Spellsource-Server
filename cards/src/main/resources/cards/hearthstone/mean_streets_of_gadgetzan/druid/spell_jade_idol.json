@@ -11,6 +11,9 @@
     "spell_jade_idol_2"
   ],
   "chooseBothCardId": "spell_jade_idol_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "MEAN_STREETS_OF_GADGETZAN",
   "fileFormatVersion": 1,
