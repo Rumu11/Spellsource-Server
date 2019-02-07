@@ -37,6 +37,9 @@
       "attackBonus": 1
     }
   },
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "BATTLE_FOR_ASHENVALE",
   "fileFormatVersion": 1
