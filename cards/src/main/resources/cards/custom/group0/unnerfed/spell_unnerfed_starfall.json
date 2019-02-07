@@ -11,6 +11,9 @@
     "spell_unnerfed_starfall_2"
   ],
   "chooseBothCardId": "spell_unnerfed_starfall_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "UNNERFED",
   "fileFormatVersion": 1
