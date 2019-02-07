@@ -35,7 +35,8 @@
     }
   },
   "attributes": {
-    "TAUNT": true
+    "TAUNT": true,
+    "CHOOSE_ONE": true
   },
   "collectible": true,
   "set": "GOBLINS_VS_GNOMES",
