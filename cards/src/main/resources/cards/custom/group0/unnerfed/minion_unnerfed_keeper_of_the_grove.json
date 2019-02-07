@@ -47,6 +47,9 @@
       ]
     }
   },
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "UNNERFED",
   "fileFormatVersion": 1
