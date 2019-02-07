@@ -11,6 +11,9 @@
     "spell_mark_of_the_loa_2"
   ],
   "chooseBothCardId": "spell_mark_of_the_loa_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "RASTAKHANS_RUMBLE",
   "fileFormatVersion": 1
