@@ -11,6 +11,9 @@
     "spell_wrath_2"
   ],
   "chooseBothCardId": "spell_wrath_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CLASSIC",
   "fileFormatVersion": 1
