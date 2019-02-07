@@ -27,7 +27,7 @@
             },
             {
               "class": "AttributeFilter",
-              "attribute": "CHOICE",
+              "attribute": "CHOOSE_ONE",
               "operation": "HAS"
             }
           ]
