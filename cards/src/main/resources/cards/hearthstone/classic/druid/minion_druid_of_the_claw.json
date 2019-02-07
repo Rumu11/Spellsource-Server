@@ -36,6 +36,7 @@
     }
   },
   "attributes": {
+    "CHOOSE_ONE": true,
     "SPELLSOURCE_NAME": "Fassnu Ronin"
   },
   "collectible": true,
