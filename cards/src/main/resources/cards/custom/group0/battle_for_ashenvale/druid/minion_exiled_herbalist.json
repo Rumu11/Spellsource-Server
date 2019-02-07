@@ -40,7 +40,8 @@
     }
   },
   "attributes": {
-    "TAUNT": true
+    "TAUNT": true,
+    "CHOOSE_ONE": true
   },
   "collectible": true,
   "set": "BATTLE_FOR_ASHENVALE",
