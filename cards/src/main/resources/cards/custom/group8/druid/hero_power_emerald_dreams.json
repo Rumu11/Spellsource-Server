@@ -8,7 +8,7 @@
   "passiveTrigger": {
     "eventTrigger": {
       "class": "AfterMinionPlayedTrigger",
-      "requiredAttribute": "CHOICE",
+      "requiredAttribute": "CHOOSE_ONE",
       "targetPlayer": "SELF"
     },
     "spell": {
