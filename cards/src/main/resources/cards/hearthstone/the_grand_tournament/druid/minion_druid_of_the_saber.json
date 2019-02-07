@@ -33,6 +33,9 @@
       "card": "token_sabertooth_tiger"
     }
   },
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "THE_GRAND_TOURNAMENT",
   "fileFormatVersion": 1
