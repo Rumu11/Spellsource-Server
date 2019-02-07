@@ -69,6 +69,9 @@
       ]
     }
   },
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "SANDS_OF_TIME",
   "fileFormatVersion": 1
