@@ -11,6 +11,9 @@
     "spell_nourish_2"
   ],
   "chooseBothCardId": "spell_nourish_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CLASSIC",
   "fileFormatVersion": 1
