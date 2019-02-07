@@ -11,6 +11,9 @@
     "spell_crash_the_party_2"
   ],
   "chooseBothCardId": "spell_crash_the_party_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "CUSTOM",
   "fileFormatVersion": 1
