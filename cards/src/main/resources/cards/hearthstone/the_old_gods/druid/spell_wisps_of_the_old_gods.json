@@ -11,6 +11,9 @@
     "spell_wisps_of_the_old_gods_2"
   ],
   "chooseBothCardId": "spell_wisps_of_the_old_gods_3",
+  "attributes": {
+    "CHOOSE_ONE": true
+  },
   "collectible": true,
   "set": "THE_OLD_GODS",
   "fileFormatVersion": 1
