@@ -12,13 +12,13 @@
       "class": "ResurrectSpell",
       "value": {
         "class": "EntityCounter",
-        "target": "FRIENDLY_GRAVEYARD",
+        "target": "ALL_ENTITIES",
         "filter": {
           "class": "AndFilter",
           "filters": [
             {
               "class": "EntityTypeFilter",
-              "entityType": "CARD"
+              "entityType": "MINION"
             },
             {
               "class": "AttributeFilter",
@@ -27,7 +27,7 @@
             },
             {
               "class": "AttributeFilter",
-              "attribute": "CHOICE",
+              "attribute": "CHOOSE_ONE",
               "operation": "HAS"
             }
           ]
