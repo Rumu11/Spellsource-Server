@@ -21,7 +21,7 @@
       "target": "SELF",
       "value": {
         "class": "EntityCounter",
-        "target": "FRIENDLY_GRAVEYARD",
+        "target": "ALL_ENTITIES",
         "filter": {
           "class": "AndFilter",
           "filters": [
@@ -55,7 +55,7 @@
       "target": "SELF",
       "value": {
         "class": "EntityCounter",
-        "target": "FRIENDLY_GRAVEYARD",
+        "target": "ALL_ENTITIES",
         "filter": {
           "class": "AndFilter",
           "filters": [
