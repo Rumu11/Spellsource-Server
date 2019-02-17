@@ -7,7 +7,7 @@
   "baseHp": 6,
   "rarity": "EPIC",
   "race": "BEAST",
-  "description": "Costs (1) less whenever you cast as spell while this is in your hand.",
+  "description": "Taunt. Costs (1) less whenever you cast as spell while this is in your hand.",
   "passiveTrigger": {
     "eventTrigger": {
       "class": "SpellCastedTrigger",
@@ -19,6 +19,10 @@
       "value": 1,
       "attribute": "RESERVED_INTEGER_1"
     }
+  },
+  {
+    "attributes": {
+    "TAUNT": true
   },
   "collectible": true,
   "set": "VERDANT_DREAMS",
