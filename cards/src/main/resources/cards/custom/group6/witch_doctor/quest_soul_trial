@@ -1,0 +1,32 @@
+{
+  "name": "Soul Trial",
+  "baseManaCost": 1,
+  "type": "SPELL",
+  "heroClass": "ROSE",
+  "rarity": "LEGENDARY",
+  "description": "Quest: Have 5 friendly minions die the same turn they're played. Reward: Anarchioxx.",
+  "quest": {
+    "class": "MinionDeathTrigger",
+    "filter": {
+      "class": "AttributeFilter",
+      "value": {
+        "class": "CurrentTurnValueProvider"
+      },
+      attribute": "PLAYED_FROM_HAND_OR_DECK",
+      operation": "EQUAL"
+    },
+    "targetPlayer": "SELF"
+  },
+  "countUntilCast": 5,
+  "targetSelection": "NONE",
+  "spell": {
+    "class": "ReceiveCardSpell",
+    "card": "token_anarchioxx"
+  },
+  "collectible": true,
+  "sets": [
+    "JOURNEY_TO_UNGORO",
+    "CUSTOM"
+  ],
+  "fileFormatVersion": 1
+}
