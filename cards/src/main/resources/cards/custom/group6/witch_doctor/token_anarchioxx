@@ -1,0 +1,36 @@
+{
+  "name": "Anarchioxx",
+  "baseManaCost": 5,
+  "type": "MINION",
+  "heroClass": "ROSE",
+  "baseAttack": 8,
+  "baseHp": 8,
+  "rarity": "LEGENDARY",
+  "description": "Battlecry: for the rest of the game, your Battlecries and Deathrattles trigger twice.",
+  "battlecry": {
+    "targetSelection": "NONE",
+    "spell": {
+      "class": "AddEnchantmentSpell",
+      "target": "FRIENDLY_PLAYER",
+      "auras": [
+        {
+          "class": "DoubleBattlecriesAura",
+          "target": "FRIENDLY_CARDS"
+        },
+        {
+          "class": "DoubleDeathrattlesAura",
+          "target": "FRIENDLY_CARDS"
+        }
+      ]
+    }
+  },
+  "attributes": {
+    "BATTLECRY": true
+  },
+  "collectible": false,
+  "sets": [
+    "JOURNEY_TO_UNGORO",
+    "CUSTOM"
+  ],
+  "fileFormatVersion": 1
+}
