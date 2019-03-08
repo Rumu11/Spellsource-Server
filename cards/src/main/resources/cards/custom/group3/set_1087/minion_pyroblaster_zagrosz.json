@@ -11,6 +11,7 @@
   "trigger": {
     "eventTrigger": {
       "class": "DamageReceivedTrigger",
+      "targetEntityType": "MINION",
       "fireCondition": {
         "class": "AndCondition",
         "target": "EVENT_TARGET",
