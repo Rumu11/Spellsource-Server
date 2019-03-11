@@ -1,9 +1,9 @@
 {
   "name": "Bronze Leviathan",
-  "baseManaCost": 5,
+  "baseManaCost": 6,
   "type": "MINION",
   "heroClass": "GOLD",
-  "baseAttack": 4,
+  "baseAttack": 5,
   "baseHp": 3,
   "rarity": "RARE",
   "race": "DRAGON",
